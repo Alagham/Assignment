@@ -1,0 +1,28 @@
+.Prof-details{
+    width: 200px;
+    height: 300px;
+    border: 2px solid ;
+    
+    #cardimg{
+        width: 100px;
+        border-radius: 50px;
+    }
+
+    p{
+        font-weight: bold;
+    }
+}
+
+.Styles1{
+background-image:url(../../assets/react-img.jpg) ;
+color: white;
+}
+
+.Styles2{
+    background-image:url(../../assets/react.svg) ;
+}
+
+.Styles3{
+    background-image:url(../../assets/react-img.jpg) ;
+    color: white; 
+}
